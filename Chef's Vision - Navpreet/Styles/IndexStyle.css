@@ -1,0 +1,102 @@
+/*---heading---*/
+.section{
+    box-shadow: 0 0 30px rgba(31, 45, 61, 0.125);
+    border-radius: 5px;
+    overflow: hidden;
+    background: #ffffff;
+    padding: 15px;
+    margin: 15px 0 30px;
+}
+h1,h2,h3,h4,.sub_msg{
+    font-family: 'Kaushan Script', cursive;
+    color:#942a25;
+}
+h1{
+    font-size: clamp(1rem, 3vw, 4rem);
+    margin: 0;
+}
+.sub_msg{
+    padding-left: 180px;
+}
+.sub_msg:hover{
+    color: #942a25;
+}
+h2{
+    text-align: center;
+    flex-grow: 8;
+}
+p{
+    text-align: center;
+    color: #820d2d;
+}
+p:hover{
+    color:#14202C;
+}
+
+/*---image---*/
+img{
+    padding: 2px;
+    background-color: #820d2d;
+}
+/*--Hero Image and text---*/
+.hero-text-box{
+    background-color: rgb(255, 255, 255, 0.85);
+    padding-top: 40px;
+    padding-left: 0;
+    padding-bottom: 40px;
+    margin-left:250px;
+    margin-right:250px;
+}
+.hero-image {
+    background-image: linear-gradient(to bottom, rgba(255,255,255, .1), rgba(255,255,255,0.15)),url(" ../Library/pexels-photo-6408290.jpg");
+    height: auto;
+    padding-top: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.hero-text {
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 300px;
+    color: white;
+}
+
+@media only screen and (max-width: 991px)
+{
+    h1 {
+        padding-top: 0px;
+    }
+    .hero-text {
+        text-align: center;
+    }
+    h1, .sub_msg, .form-outline{
+        padding-left: 0;
+    }
+}
+
+@media only screen and (max-width: 768px)
+{
+    .hero-text-box{
+        margin: 0 100px;
+    }
+}
+
+@media only screen and (max-width: 590px)
+{
+    .hero-text-box{
+        margin: 0;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
