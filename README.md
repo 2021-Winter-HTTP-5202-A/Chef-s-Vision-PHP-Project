@@ -6,3 +6,5 @@
 - [x] sign up, login, add recipe - Nastaran
 - [x] Database
 
+- [x] combine whole project - Navpreet
+- [x] Contact us feature connected to database - Navpreet
