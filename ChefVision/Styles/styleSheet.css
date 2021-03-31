@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+html{
+    box-sizing: border-box;
+}
+*,*::before,*::after{
+    box-sizing: inherit;
+}
+
+/*---body---*/
+body{
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    color: #820d2d;
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*---header----*/
+.header{
+    background-color: #ffffff;
+}
+.site-logo{
+    font-size: clamp(1rem, 10vw, 3.5rem);
+    font-family: 'Kaushan Script', cursive;
+    color: #820d2d;
+    line-height: .5rem;
+
+}
+/*****MERRY CHRISTMAS*****/
+.site-logo {
+    animation: slideIn ease-in-out forwards 6S;
+    z-index: 10;
+    color:#820d2d;
+    /*opacity: 0.5;*/
+    padding: 0 5px;
+}
+@keyframes slideIn {
+    25% {
+        color:#a71139 ;
+        opacity: 1;
+    }
+    50%{
+        color:#d7164a ;
+        opacity: 1;
+    }
+    75%{
+        color: #5f0920;
+    }
+    100%{
+        color:#820d2d;
+    }
+}
+.site-logo:hover{
+    color:#14202C;
+}
+#sign-In{
+    padding-left: 22px;
+}
+
+/*---page-container---*/
+.page_container{
+    position: relative;
+    max-width:1200px;
+    margin: 0 auto 0 auto;
+    padding: 0 50px;
+}
+hr{
+    margin: 0;
+}
+
+/*---footer---*/
+footer{
+    overflow: hidden;
+}
+#footer p{
+    float:left;
+}
+.social_links li{
+    display: inline-block;
+    list-style-type: none;
+    float: right;  
+    padding-left: 27px;
+}
+.copyright{
+    text-align: center;
+}
+.copyright:hover{
+    color: #820d2d;
+}
+a{
+    text-decoration: none;
+    color: #820d2d;
+}
+#copyright{
+   color:#747474;
+}
+.hidden{
+    position: absolute;
+    left: -10000px;
+    height: 1px;
+    width: 1px;
+}
+
+@media only screen and (max-width: 991px) {
+    #sign-In{
+        padding-left: 0;
+    }
+}
+  
