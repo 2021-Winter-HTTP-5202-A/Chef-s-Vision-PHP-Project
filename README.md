@@ -2,7 +2,7 @@
 # Team Name: NTF
 # Tasks
 - [x] index page, recipe page, recipedetail page, contact page - Navpreet Kaur  
-- [x] about, events page, comments - Farshan
+- [x] about, events page/add events, comments - Farshan
 - [x] sign up, login, add recipe - Nastaran
 - [x] Database
 
