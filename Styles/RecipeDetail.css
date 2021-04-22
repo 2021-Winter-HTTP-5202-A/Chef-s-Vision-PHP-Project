@@ -1,0 +1,119 @@
+.gray-bg{
+    background-color: #ffffff;
+}
+.recipe{
+    box-shadow: 0 0 30px rgba(31, 45, 61, 0.125);
+    border-radius: 5px;
+    overflow: hidden;
+    background: #ffffff;
+    padding: 15px;
+    margin: 15px 0 30px;
+}
+.recipe-img{
+    padding: 50px 130px;
+}
+.recipe .recipe-title {
+    padding: 15px 0 20px;
+}
+.recipe-time{
+    text-align: left;
+}
+.recipe-time:hover{
+    color: #820d2d;
+}
+.recipe-description {
+    color: #14202C;
+}
+.recipe-description:hover {
+    color: #14202C;
+}
+.recipe .recipe-title .media {
+    padding-top: 15px;
+    border-bottom: 1px dashed #ddd;
+    padding-bottom: 20px;
+}
+.recipe .recipe-title .media .avatar {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    overflow: hidden;
+    padding: 0;
+    border: none;
+}
+.avatar-image{
+    padding: 0;
+}
+.recipe .recipe-title .media .media-body {
+    padding-left: 8px;
+}
+.recipe .recipe-title .media .media-body label {
+    font-weight: 600;
+    color: #fc5356;
+    margin: 0;
+}
+.recipe .recipe-title .media .media-body span {
+    display: block;
+    color: #fc5356;
+    font-size: 14px;
+}
+
+
+
+
+.recipe-comment {
+
+    box-shadow: 0 0 30px rgba(31, 45, 61, 0.125);
+    border-radius: 5px;
+    overflow: hidden;
+    background: #ffffff;
+    padding: 15px;
+    margin: 15px 0 30px;
+}
+
+img {
+    max-width: 100%;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+#contact-form{
+    padding-top: 0;
+}
+
+.contact-form .form-control {
+    border: none;
+    border-bottom: 1px solid #14202C;
+    background: transparent;
+    border-radius: 0;
+    padding-left: 0;
+
+}
+.contact-form .form-control:focus {
+    border-bottom: 1px solid #820d2d;
+}
+.contact-form .form-control.invalid {
+    border-bottom: 1px solid #820d2d;
+}
+.contact-form .send {
+    margin-top: 20px;
+}
+ .btn-comment{
+    float: left;
+
+}
+ .justify-content-start{
+     padding-left: 10px;
+ }
+ .text-align{
+     text-align: left;
+ }
+ .col-md-12-btn{
+     padding-top: 10px;
+ }
+@media only screen and (max-width: 768px) {
+    .recipe-img {
+        padding: 20px;
+    }
+}
