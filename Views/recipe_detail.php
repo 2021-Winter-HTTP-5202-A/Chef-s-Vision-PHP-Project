@@ -36,6 +36,21 @@ foreach ($userRecipe as $recipe){
 
 $userComments = $s->getAllComments($db);
 
+if(isset($_POST['id'])){
+    $id = $_POST['id'];
+    $db = Database::getDb();
+
+    $c = new Recipe;
+    $count = $c->deleteComment($id, $db);
+
+    if($count){
+        echo "";
+    }
+    else {
+        echo "problem deleting";
+    }
+}
+
 ?>
 
 <!-- Page Content -->
@@ -99,6 +114,8 @@ $userComments = $s->getAllComments($db);
                                         <div class="d-flex flex-row fs-12">
                                             <div class="like p-2 cursor"><i class="fa fa-thumbs-o-up"></i><span class="ml-1">Like</span></div>
                                             <div class="like p-2 cursor"><i class="fa fa-commenting-o"></i><span class="ml-1">Comment</span></div>
+                                            <div class="like p-2 cursor">
+                                            </div>
                                             <div class="like p-2 cursor"><i class="fa fa-share"></i><span class="ml-1">Share</span></div>
                                         </div>
                                     </div>

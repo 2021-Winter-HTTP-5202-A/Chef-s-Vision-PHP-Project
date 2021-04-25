@@ -101,8 +101,10 @@ img {
 }
  .btn-comment{
     float: left;
-
-}
+ }
+ .del-comment{
+     padding: 0;
+ }
  .justify-content-start{
      padding-left: 10px;
  }
