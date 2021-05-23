@@ -5,7 +5,7 @@ Chefs Vision is a Recipe Sharing website.User can look at recipes shared by anot
 
 Built with PHP, javaScript, HTML, CSS, MySQL and bootstrap.
 
-### Navpreet Kaur
+### Tasks
 - [x] Designed Project(Header, Footer, Home Page)
 - [x] Combined whole project sent by other team members and changed their stylesheet to make sure its consistancy and responsiveness.
 ##### Feature 1
@@ -15,5 +15,7 @@ Built with PHP, javaScript, HTML, CSS, MySQL and bootstrap.
 ##### Feature 3
 - [x] Add recipe/ Display recipe(Validations, registered user can add recipe including image of recipe, title, description and ingredients).
 - [x] Sign Up/Login
+
+<img width="1427" alt="Screen Shot 2021-05-18 at 6 59 16 AM" src="https://user-images.githubusercontent.com/71792075/119275375-9e6eda00-bbe2-11eb-95d2-5c0b77001ba1.png">
 
 
