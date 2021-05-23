@@ -1,6 +1,9 @@
 # Chef's Vision (Recipe Sharing Website)
 ## Team Name: NTF
-## Tasks
+## Description
+Chefs Vision is a Recipe Sharing website.User can look at recipes shared by another users and can share their recipe after registration with the website. User can also comment on recipes shared by other users.I was responsible for the interface development as well as the "Add Recipe" and "Comments" features.
+
+Built with PHP, javaScript, HTML, CSS, MySQL and bootstrap.
 
 ### Navpreet Kaur
 - [x] Designed Project(Header, Footer, Home Page)
@@ -12,15 +15,5 @@
 ##### Feature 3
 - [x] Add recipe/ Display recipe(Validations, registered user can add recipe including image of recipe, title, description and ingredients).
 - [x] Sign Up/Login
-
-
-### Farshan
-
-
-
-  
-- [x] about, events page/add events, comments - Farshan
-- [x] sign up, login, add recipe - Nastaran
-- [x] Database
 
 
