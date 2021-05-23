@@ -1,3 +1,4 @@
+
 # Chef's Vision (Recipe Sharing Website)
 ## Team Name: NTF
 ## Description
@@ -17,5 +18,11 @@ Built with PHP, javaScript, HTML, CSS, MySQL and bootstrap.
 - [x] Sign Up/Login
 
 <img width="1427" alt="Screen Shot 2021-05-18 at 6 59 16 AM" src="https://user-images.githubusercontent.com/71792075/119275375-9e6eda00-bbe2-11eb-95d2-5c0b77001ba1.png">
+
+<img width="1155" alt="Screen Shot 2021-05-23 at 4 23 11 PM" src="https://user-images.githubusercontent.com/71792075/119275479-60be8100-bbe3-11eb-82f5-7822d42d7162.png">
+
+<img width="770" alt="Screen Shot 2021-05-23 at 4 23 28 PM" src="https://user-images.githubusercontent.com/71792075/119275493-6e740680-bbe3-11eb-8427-7ebd85103e3f.png">
+<img width="1192" alt="Screen Shot 2021-05-23 at 4 23 46 PM" src="https://user-images.githubusercontent.com/71792075/119275498-7633ab00-bbe3-11eb-9557-3729bef6f66a.png">
+<img width="1301" alt="Screen Shot 2021-05-23 at 4 24 12 PM" src="https://user-images.githubusercontent.com/71792075/119275499-7cc22280-bbe3-11eb-808c-9cb3e7badf01.png">
 
 
