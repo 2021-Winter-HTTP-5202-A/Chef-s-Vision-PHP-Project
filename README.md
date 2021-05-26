@@ -5,6 +5,7 @@
 Chefs Vision is a Recipe Sharing website.User can look at recipes shared by another users and can share their recipe after registration with the website. User can also comment on recipes shared by other users.I was responsible for the interface development as well as the "Add Recipe" and "Comments" features.
 
 Built with PHP, javaScript, HTML, CSS, MySQL and bootstrap.
+[Live Demo](http://chefvision.navghuman.ca/)
 
 ### Tasks
 - [x] Designed Project(Header, Footer, Home Page)
