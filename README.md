@@ -10,6 +10,8 @@ I made up my mind to build recipe sharing website where I can go to find delicio
 In school, I learned PHP, mySQL database and how to interact with database. So I decided to use PHP as a backend and mySQL database to store all the data. I added comments on recipe feature to appreciate to user of recipe and to provide reviews about recipe. 
 
 ## Thought Process
+* This application needs a name related to food. I searched for name and ended up having name Chef's Vision.
+* Then I choose color combination.
 [Live Demo](http://chefvision.navghuman.ca/)
 
 ### Tasks
