@@ -38,13 +38,15 @@ Designed database.
 
 ##### Feature 3
 - [x] Add recipe/ Display recipe(Validations, registered user can add recipe including image of recipe, title, description and ingredients).
-<img width="1103" alt="Screen Shot 2021-05-31 at 12 02 10 PM" src="https://user-images.githubusercontent.com/71792075/120218771-39ca0580-c208-11eb-9a7a-3fbcab7634b1.png">
+ <img width="1110" alt="Screen Shot 2021-05-31 at 12 09 30 PM" src="https://user-images.githubusercontent.com/71792075/120219356-1eabc580-c209-11eb-9955-668348d3d5a3.png">
+
+<img width="1108" alt="Screen Shot 2021-05-31 at 12 06 04 PM" src="https://user-images.githubusercontent.com/71792075/120219282-fb811600-c208-11eb-9d70-93ba2336bb18.png">
+
 
 
 
 ### Feature 2
 - [x] Add Comments on Recipes(Validations, only registered user can view full recipe and comment on the recipe).
 
-<img width="884" alt="Screen Shot 2021-05-23 at 4 27 59 PM" src="https://user-images.githubusercontent.com/71792075/119275586-f22df300-bbe3-11eb-92ac-786eee4a2d59.png">
-<img width="886" alt="Screen Shot 2021-05-23 at 4 27 43 PM" src="https://user-images.githubusercontent.com/71792075/119275590-f528e380-bbe3-11eb-83cf-7f4631e00bf2.png">
+<img width="1110" alt="Screen Shot 2021-05-31 at 12 07 55 PM" src="https://user-images.githubusercontent.com/71792075/120219255-ee642700-c208-11eb-965f-82b0d87f3b69.png">
 
