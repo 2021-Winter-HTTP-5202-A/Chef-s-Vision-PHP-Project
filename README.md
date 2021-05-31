@@ -29,14 +29,14 @@ Designed database.
 <img width="1427" alt="Screen Shot 2021-05-18 at 6 59 16 AM" src="https://user-images.githubusercontent.com/71792075/119275375-9e6eda00-bbe2-11eb-95d2-5c0b77001ba1.png">
 
 
-### Feature 1
+## Feature 1
 - [x] Created Sign Up/Login for users and connected to the database.
 <img width="1203" alt="Screen Shot 2021-05-31 at 11 55 33 AM" src="https://user-images.githubusercontent.com/71792075/120218097-3da95800-c207-11eb-983f-793ce9a5b1e3.png">
 
 <img width="1192" alt="Screen Shot 2021-05-31 at 11 55 56 AM" src="https://user-images.githubusercontent.com/71792075/120218105-413cdf00-c207-11eb-8cfd-3d3489636b7e.png">
 
 
-##### Feature 3
+## Feature 2
 - [x] Add recipe/ Display recipe(Validations, registered user can add recipe including image of recipe, title, description and ingredients).
  <img width="1110" alt="Screen Shot 2021-05-31 at 12 09 30 PM" src="https://user-images.githubusercontent.com/71792075/120219356-1eabc580-c209-11eb-9955-668348d3d5a3.png">
 
@@ -45,8 +45,12 @@ Designed database.
 
 
 
-### Feature 2
+### Feature 3
 - [x] Add Comments on Recipes(Validations, only registered user can view full recipe and comment on the recipe).
 
 <img width="1110" alt="Screen Shot 2021-05-31 at 12 07 55 PM" src="https://user-images.githubusercontent.com/71792075/120219255-ee642700-c208-11eb-965f-82b0d87f3b69.png">
 
+## Further Improvements
+I would love to add more features in chef's vision website in future for admin side.
+* Admin will be able to check and approve recipe shared by user before displaying it on website.
+* Admin will be able add/ edit and delete events related to food compititions.
