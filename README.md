@@ -31,18 +31,18 @@ Designed database.
 
 ### Feature 1
 - [x] Created Sign Up/Login for users and connected to the database.
-- [ ] <img width="1203" alt="Screen Shot 2021-05-31 at 11 55 33 AM" src="https://user-images.githubusercontent.com/71792075/120218097-3da95800-c207-11eb-983f-793ce9a5b1e3.png">
+<img width="1203" alt="Screen Shot 2021-05-31 at 11 55 33 AM" src="https://user-images.githubusercontent.com/71792075/120218097-3da95800-c207-11eb-983f-793ce9a5b1e3.png">
 
 <img width="1192" alt="Screen Shot 2021-05-31 at 11 55 56 AM" src="https://user-images.githubusercontent.com/71792075/120218105-413cdf00-c207-11eb-8cfd-3d3489636b7e.png">
 
-### Feature 2
-- [x] Add Comments on Recipes(Validations, only registered user can check recipes and comments on the recipes).
+
 ##### Feature 3
 - [x] Add recipe/ Display recipe(Validations, registered user can add recipe including image of recipe, title, description and ingredients).
-- [x] Sign Up/Login
-
-
 <img width="875" alt="Screen Shot 2021-05-23 at 4 28 12 PM" src="https://user-images.githubusercontent.com/71792075/119275584-ee9a6c00-bbe3-11eb-8c3f-8f26de5b16fe.png">
+
+### Feature 2
+- [x] Add Comments on Recipes(Validations, only registered user can check recipes and comments on the recipes).
+
 <img width="884" alt="Screen Shot 2021-05-23 at 4 27 59 PM" src="https://user-images.githubusercontent.com/71792075/119275586-f22df300-bbe3-11eb-92ac-786eee4a2d59.png">
 <img width="886" alt="Screen Shot 2021-05-23 at 4 27 43 PM" src="https://user-images.githubusercontent.com/71792075/119275590-f528e380-bbe3-11eb-83cf-7f4631e00bf2.png">
 
