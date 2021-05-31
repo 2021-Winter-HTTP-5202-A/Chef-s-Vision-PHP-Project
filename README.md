@@ -38,7 +38,8 @@ Designed database.
 
 ##### Feature 3
 - [x] Add recipe/ Display recipe(Validations, registered user can add recipe including image of recipe, title, description and ingredients).
-<img width="875" alt="Screen Shot 2021-05-23 at 4 28 12 PM" src="https://user-images.githubusercontent.com/71792075/119275584-ee9a6c00-bbe3-11eb-8c3f-8f26de5b16fe.png">
+<img width="1203" alt="Screen Shot 2021-05-31 at 11 55 33 AM" src="https://user-images.githubusercontent.com/71792075/120218668-1737ec80-c208-11eb-9be2-c5f5ab1cef9b.png">
+
 
 ### Feature 2
 - [x] Add Comments on Recipes(Validations, only registered user can check recipes and comments on the recipes).
