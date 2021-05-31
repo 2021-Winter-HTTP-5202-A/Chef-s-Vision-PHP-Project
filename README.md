@@ -45,7 +45,7 @@ Designed database.
 
 
 
-### Feature 3
+## Feature 3
 - [x] Add Comments on Recipes(Validations, only registered user can view full recipe and comment on the recipe).
 
 <img width="1110" alt="Screen Shot 2021-05-31 at 12 07 55 PM" src="https://user-images.githubusercontent.com/71792075/120219255-ee642700-c208-11eb-965f-82b0d87f3b69.png">
