@@ -11,8 +11,10 @@ In school, I learned PHP, mySQL database and how to interact with database. So I
 
 ## Thought Process
 * This application needs a name related to food. I searched for name and ended up having name Chef's Vision.
-* Then I choose color combination.
-[Live Demo](http://chefvision.navghuman.ca/)
+* Then I choosed color combination.
+* I started thinking about design and created wireframes for getting ideasabout interface.
+* Then I started coding and developing the project.
+* [Live Demo](http://chefvision.navghuman.ca/)
 
 ### Tasks
 - [x] Designed Project(Header, Footer, Home Page)
