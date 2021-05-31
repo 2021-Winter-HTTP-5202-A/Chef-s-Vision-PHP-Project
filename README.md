@@ -1,7 +1,15 @@
 
 # Chef's Vision (Recipe Sharing Website)
 ## Team Name: NTF
-## Description
+## Case Study
+
+"It's been a while that I don't know what to cook for lunch. I'm always eating the same indian food everyday. One day, I wish I had someone telling me what to cook different and eat today."
+
+This was what I kept telling myself every single day. Sometimes I search recipes on Instagram, sometime on google but am always find more videos than written recipes, but I was looking for a more structured and organized plan.
+
+I made up my mind to build recipe sharing website where I can go to find delicious and new recipes shared by other users as a written content because some user are not comfortable making videos.
+
+Adding a BMI Calculator as an extra step to reach the weekly recipes was a good idea to make it even more personalized.
 Chefs Vision is a Recipe Sharing website.User can look at recipes shared by another users and can share their recipe after registration with the website. User can also comment on recipes shared by other users.I was responsible for the interface development as well as the "Add Recipe" and "Comments" features.
 
 Built with PHP, javaScript, HTML, CSS, MySQL and bootstrap.
