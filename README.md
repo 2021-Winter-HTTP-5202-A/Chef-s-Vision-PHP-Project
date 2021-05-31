@@ -14,14 +14,25 @@ In school, I learned PHP, mySQL database and how to interact with database. So I
 * Then I choosed color combination.
 * I started thinking about design and created wireframes for getting ideasabout interface.
 * Then I started coding and developing the project.
-* [Live Demo](http://chefvision.navghuman.ca/)
+* Click to see the live demo.[Live Demo](http://chefvision.navghuman.ca/)
 
-### Tasks
-- [x] Designed Project(Header, Footer, Home Page)
-- [x] Combined whole project sent by other team members and changed their stylesheet to make sure its consistancy and responsiveness.
-##### Feature 1
-- [x] Contact Us(Client side validations, Server side Validation, Send email back to user).
-##### Feature 2
+## Technologies Used
+HTML
+CSS
+PHP
+MySQL 
+Bootstrap
+
+## Working Process
+Designed all pages of the website according to the features.
+Designed database.
+
+### Feature 1
+- [x] Created Sign Up/Login for users and connected to the database.
+- [ ] <img width="1203" alt="Screen Shot 2021-05-31 at 11 55 33 AM" src="https://user-images.githubusercontent.com/71792075/120218097-3da95800-c207-11eb-983f-793ce9a5b1e3.png">
+<img width="1192" alt="Screen Shot 2021-05-31 at 11 55 56 AM" src="https://user-images.githubusercontent.com/71792075/120218105-413cdf00-c207-11eb-8cfd-3d3489636b7e.png">
+
+### Feature 2
 - [x] Add Comments on Recipes(Validations, only registered user can check recipes and comments on the recipes).
 ##### Feature 3
 - [x] Add recipe/ Display recipe(Validations, registered user can add recipe including image of recipe, title, description and ingredients).
