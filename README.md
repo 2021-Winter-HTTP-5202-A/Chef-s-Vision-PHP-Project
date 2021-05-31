@@ -8,7 +8,8 @@ This was what I kept telling myself every single day. Sometimes I search recipes
 
 I made up my mind to build recipe sharing website where I can go to find delicious and new recipes shared by other users as a written content because some user are not comfortable making videos to share their recipes.
 In school, I learned PHP, mySQL database and how to interact with database. So I decided to use PHP as a backend and mySQL database to store all the data. I added comments on recipe feature to appreciate to user of recipe and to provide reviews about recipe. 
-Built with PHP, javaScript, HTML, CSS, MySQL and bootstrap.
+
+## Thought Process
 [Live Demo](http://chefvision.navghuman.ca/)
 
 ### Tasks
